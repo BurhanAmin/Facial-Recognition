@@ -30,6 +30,12 @@ In this project:
 - Model trained with **Binary Crossentropy loss**.
 - Optimizer: **Adam**.
 - Evaluation: Accuracy on unseen validation image pairs.
+- 
+- Install requirements:
+pip install -r requirements.txt
+
+Prepare your dataset:
+Place images into data/positive/ and data/negative/ folders (or your chosen structure).
 
 ---
 📚 Acknowledgments
